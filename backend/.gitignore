@@ -1,0 +1,22 @@
+*.pyc
+*.pyo
+__pycache__/
+instance/
+config.py  # If it contains sensitive info
+.env
+# SQLite Database
+*.sqlite3
+*.db
+
+# Logs
+*.log
+logs/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# MacOS specific files
+.DS_Store
+.py
+__init__.py
