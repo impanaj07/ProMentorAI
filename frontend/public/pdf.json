@@ -1,0 +1,27 @@
+
+[
+    {
+        "img":"/resources/dbms.jpg", 
+        "title" : "Introduction to DBMS",
+        "pdfUrl" : "/resources/DBMS_MOD1.pdf",
+        "info":"Database Management Systems"
+    },
+    {
+        "img":"/resources/java.jpg",
+        "title" : "JAVA 101",
+        "pdfUrl" : "/resources/Introduction_to_JAVA.pdf",
+        "info":"JAVA"
+    },
+    {
+        "img":"/resources/dbms.jpg",
+        "title" : "DBMS",
+        "pdfUrl" : "/resources/DBMS_MOD1.pdf",
+        "info":"Database Management Systems"
+    },
+    {
+        "img":"/resources/dbms.jpg",
+        "title" : "DBMS",
+        "pdfUrl" : "/resources/DBMS_MOD1.pdf",
+        "info":"Database Management Systems"
+    }
+]
