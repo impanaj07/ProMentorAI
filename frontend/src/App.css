@@ -1,0 +1,9 @@
+.fixed-pdf-view {
+    position: fixed;     /* Keeps the PDF fixed relative to the viewport */
+    top: 0;              /* Aligns to the top of the screen */
+    left: 0;             /* Aligns to the left of the screen */
+    width: 100vw;        /* Full screen width */
+    height: 100vh;       /* Full screen height */
+    border: none;        /* Removes border from the iframe */
+    z-index: 1000;
+  }
