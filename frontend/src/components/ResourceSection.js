@@ -34,7 +34,7 @@ const ResourceSection = () => {
     <>
       <h1>Resource Section</h1>
 
-      <Stack direction="horizontal" gap={3}>
+      <Stack direction="horizontal" gap={3} className="flex-wrap">
         { pdfs.map((pdf, index) => (
           <div className="p-2" key={index}>
             <ResourceCard

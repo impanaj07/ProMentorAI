@@ -1,27 +1,52 @@
 
-[
+[   
+{
+    "img":"/resources/cracking.jpg",
+    "title" : "Cracking the Coding Interview",
+    "pdfUrl" : "/resources/Cracking_the_coding_interview.pdf",
+    "info":"Author : Gayel Laakmann Mcdowell"
+},
     {
         "img":"/resources/dbms.jpg", 
         "title" : "Introduction to DBMS",
         "pdfUrl" : "/resources/DBMS_MOD1.pdf",
-        "info":"Database Management Systems"
+        "info":"Database Management Systems by Navathe"
     },
     {
         "img":"/resources/java.jpg",
         "title" : "JAVA 101",
         "pdfUrl" : "/resources/Introduction_to_JAVA.pdf",
-        "info":"JAVA"
+        "info":"Object-oriented programming language "
     },
     {
-        "img":"/resources/dbms.jpg",
-        "title" : "DBMS",
-        "pdfUrl" : "/resources/DBMS_MOD1.pdf",
-        "info":"Database Management Systems"
+        "img":"/resources/python.jpg",
+        "title" : "Python",
+        "pdfUrl" : "/resources/Python_head_first.pdf",
+        "info":"Python: simple, versatile, powerful, readable, popular." 
+   },
+    {
+        "img":"/resources/cn.jpg",
+        "title" : "Computer Networks",
+        "pdfUrl" : "/resources/Computer_Networking_and_the_Internet(5th.Edition).pdf",
+        "info":"Author : Tanenbaum and Wetherall (Fifth Edition)"
     },
     {
-        "img":"/resources/dbms.jpg",
-        "title" : "DBMS",
-        "pdfUrl" : "/resources/DBMS_MOD1.pdf",
-        "info":"Database Management Systems"
+        "img":"/resources/ob.jpg",
+        "title" : "Object-Oriented Software Engineering",
+        "pdfUrl" : "/resources/Object-Oriented-Softwere-Engg.pdf",
+        "info":"Practical software development"
+    },
+    {
+        "img":"/resources/algorithm.png",
+        "title" : "Algorithms",
+        "pdfUrl" : "/resources/Object-Oriented-Softwere-Engg.pdf",
+        "info":"Algorithm Notes for Proffesionals by GoalKicker.com"
+    },
+    {
+        "img":"/resources/css.jpg",
+        "title" : "CSS",
+        "pdfUrl" : "/resources/CSS.pdf",
+        "info":"CSS Notes for Proffesionals by GoalKicker.com"
     }
+    
 ]
